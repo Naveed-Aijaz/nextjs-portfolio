@@ -11,7 +11,7 @@
           </p>
 
           <h1 className="text-5xl font-bold leading-tight tracking-tight text-gray-900 dark:text-white sm:text-6xl md:text-7xl">
-            Hi, I&apos;m Ali.
+            Hi, I&apos;m Naveed Aijaz.
             <br />
             I build modern web applications.
           </h1>

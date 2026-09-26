@@ -23,7 +23,7 @@ export default function Navbar() {
           href="#home"
           className="text-xl font-bold tracking-tight text-gray-900 dark:text-white"
         >
-          Ali<span className="text-blue-600 dark:text-blue-400">.</span>
+          Naveed Aijaz<span className="text-blue-600 dark:text-blue-400">.</span>
         </a>
 
         {/* Desktop Navigation */}

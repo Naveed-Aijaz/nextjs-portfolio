@@ -37,7 +37,7 @@ export default function Contact() {
                   href="mailto:your@email.com"
                   className="mt-1 inline-block text-gray-800 transition hover:text-blue-600 dark:text-gray-200 dark:hover:text-blue-400"
                 >
-                  your@email.com
+                  hello@email.com
                 </a>
               </div>
 
@@ -47,7 +47,7 @@ export default function Contact() {
                 </p>
 
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Naveed-Aijaz"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-1 inline-block text-gray-800 transition hover:text-blue-600 dark:text-gray-200 dark:hover:text-blue-400"
@@ -62,7 +62,7 @@ export default function Contact() {
                 </p>
 
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/naveed-aijaz-538352384/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-1 inline-block text-gray-800 transition hover:text-blue-600 dark:text-gray-200 dark:hover:text-blue-400"
