@@ -8,7 +8,7 @@
 
         <div className="flex gap-6">
           <a
-            href="https://github.com"
+            href="https://github.com/Naveed-Aijaz"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm font-medium text-gray-600 transition hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400"
@@ -17,7 +17,7 @@
           </a>
 
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/naveed-aijaz-538352384/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm font-medium text-gray-600 transition hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400"

@@ -1,10 +1,10 @@
- const education = [
+const education = [
   {
-    degree: "Your Degree / Program",
-    institution: "Your University / College",
-    period: "20XX – 20XX",
+    degree: "Diploma",
+    institution: "THE LITTLE SCHOLARS SCHOOL",
+    period: "2023 – 2025",
     description:
-      "Add a short description about your degree, field of study, or relevant coursework.",
+      "Core Focus: Full-Stack MERN Development & modern AI-powered engineering workflows. Built solid foundations in Data Structures, Algorithms, and Web Engineering.",
   },
 ];
 

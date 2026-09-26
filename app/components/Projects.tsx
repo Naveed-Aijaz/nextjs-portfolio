@@ -16,7 +16,7 @@
       "Cloudinary",
       "Nodemailer",
     ],
-    github: "#",
+    github: "https://github.com/Naveed-Aijaz/marketplace-hub",
     demo: "#",
   },
 
@@ -35,7 +35,7 @@
       "Axios",
       "Cloudinary",
     ],
-    github: "#",
+    github: "https://github.com/Naveed-Aijaz/fb-posting_hub",
     demo: "#",
   },
 
@@ -70,7 +70,7 @@
       "Ant Design",
       "SCSS",
     ],
-    github: "#",
+    github: "https://github.com/Naveed-Aijaz/Pollify-app",
     demo: "#",
   },
 
@@ -86,7 +86,7 @@
       "CRUD",
       "Responsive Design",
     ],
-    github: "#",
+    github: "https://github.com/Naveed-Aijaz/modern-notes-app",
     demo: "#",
   },
 
@@ -103,7 +103,7 @@
       "bcrypt",
       "REST API",
     ],
-    github: "#",
+    github: "https://github.com/Naveed-Aijaz/users-with-mongodb-jwt-bcrypt",
     demo: "#",
   },
 
@@ -119,7 +119,7 @@
       "Next Themes",
       "Responsive Design",
     ],
-    github: "#",
+    github: "https://github.com/Naveed-Aijaz/nextjs-portfolio",
     demo: "#",
   },
 ];

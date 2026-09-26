@@ -6,42 +6,96 @@
       "CSS3",
       "JavaScript",
       "TypeScript",
-      "React",
+      "React.js",
       "Next.js",
       "Tailwind CSS",
+      "SCSS / SASS",
+      "Redux Toolkit",
+      "Ant Design",
+      "Material UI",
       "Responsive Design",
+      "Component Architecture",
+      "Three.js",
     ],
   },
+
   {
     title: "Backend",
     skills: [
       "Node.js",
       "Express.js",
       "REST APIs",
-      "JWT Authentication",
+      "Express Middleware",
+      "JWT",
+      "Authentication",
+      "Authorization",
       "bcrypt",
-      "API Authorization",
-      "CRUD Operations",
+      "Multer",
+      "Nodemailer",
+      "Morgan",
+      "Socket.io",
+      "API Integration",
+      "MVC Architecture",
     ],
   },
+
   {
     title: "Database",
     skills: [
       "MongoDB",
       "Mongoose",
+      "Sequelize",
+      "Firebase",
+      "Supabase",
+      "Firestore",
       "Database Design",
-      "Data Validation",
+      "CRUD Operations",
     ],
   },
+
   {
-    title: "Tools & Technologies",
+    title: "DevOps & Tools",
     skills: [
       "Git",
       "GitHub",
-      "VS Code",
+      "GitHub Actions",
+      "CI/CD",
       "npm",
       "Postman",
-      "Vercel",
+      "Docker",
+      "Cloudinary",
+      "ngrok",
+      "JSON",
+    ],
+  },
+
+  {
+    title: "Development & Architecture",
+    skills: [
+      "Full-Stack Development",
+      "Frontend Development",
+      "Backend Development",
+      "Web Application Development",
+      "Software Development",
+      "Object-Oriented Programming",
+      "State Management",
+      "Scalable Systems",
+      "Caching",
+      "Node.js Optimization",
+      "Responsive Web Design",
+      "API Design",
+    ],
+  },
+
+  {
+    title: "Additional",
+    skills: [
+      "Payment Integration",
+      "File Uploads",
+      "Role-Based Access Control",
+      "Security",
+      "Performance Optimization",
+      "Real-Time Applications",
     ],
   },
 ];
@@ -64,8 +118,8 @@ export default function Skills() {
           </h2>
 
           <p className="mt-4 text-lg leading-8 text-gray-600 dark:text-gray-300">
-            A collection of technologies, tools, and development skills I use
-            to build modern full-stack web applications.
+            Technologies, tools, and development concepts I use to build
+            modern, scalable, and user-friendly web applications.
           </p>
         </div>
 
@@ -74,17 +128,17 @@ export default function Skills() {
           {skillCategories.map((category) => (
             <div
               key={category.title}
-              className="rounded-2xl border border-gray-200 bg-white p-7 shadow-sm transition hover:shadow-md dark:border-gray-800 dark:bg-gray-950"
+              className="rounded-2xl border border-gray-200 bg-white p-7 transition duration-300 hover:-translate-y-1 hover:shadow-lg dark:border-gray-800 dark:bg-gray-950"
             >
               <h3 className="text-xl font-bold text-gray-900 dark:text-white">
                 {category.title}
               </h3>
 
-              <div className="mt-5 flex flex-wrap gap-3">
+              <div className="mt-5 flex flex-wrap gap-2.5">
                 {category.skills.map((skill) => (
                   <span
                     key={skill}
-                    className="rounded-lg border border-gray-200 bg-gray-50 px-4 py-2 text-sm font-medium text-gray-700 transition hover:-translate-y-1 hover:border-blue-300 hover:text-blue-600 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-300 dark:hover:border-blue-500 dark:hover:text-blue-400"
+                    className="rounded-lg border border-gray-200 bg-gray-50 px-3.5 py-2 text-sm font-medium text-gray-700 transition hover:border-blue-300 hover:bg-blue-50 hover:text-blue-600 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-300 dark:hover:border-blue-700 dark:hover:bg-blue-950 dark:hover:text-blue-400"
                   >
                     {skill}
                   </span>
